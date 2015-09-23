@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slides for Last GBM Available for Download"
+title:  "Slides for First GBM Available for Download"
 date:   2015-09-23 18:35:00
 author: Natasha Wijoyo
 categories: 
